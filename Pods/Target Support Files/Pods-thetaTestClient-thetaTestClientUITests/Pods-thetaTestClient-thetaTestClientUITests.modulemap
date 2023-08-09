@@ -1,6 +1,0 @@
-framework module Pods_thetaTestClient_thetaTestClientUITests {
-  umbrella header "Pods-thetaTestClient-thetaTestClientUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
